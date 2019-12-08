@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	display: block;
+	position: relative;
+	width: 100%;
+	text-align: left;
+	word-wrap: break-word;
+}
+#topbar{
+	background-color: #365899;
+	padding: 8px 15px;
+}
+#topbar ul li{
+	display: inline-block;
+	margin-right: 5px;
+}
+#f1_left{
+	float: left;
+}
+#f1_right{
+	float: right;
+}
+a{outline: none;text-decoration:none;color: white;}
+.nospace{
+	list-style: none;
+}
